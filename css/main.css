@@ -75,10 +75,10 @@ ul {
 }
 
 .nav-link {
-  padding: 10px 14px;
+  padding: 8px 12px;
   font-family: var(--font-secondary);
-  font-weight: 700;
-  font-size: 20px;
+  font-weight: 600;
+  font-size: 17px;
   color: var(--black);
   transition: var(--transition-fast);
 }
@@ -156,11 +156,11 @@ ul {
 }
 
 .hero-description {
-  font-size: 28px;
-  line-height: 52px;
+  font-size: 22px;
+  line-height: 42px;
   color: var(--black);
   margin-bottom: var(--spacing-xl);
-  font-weight: 700;
+  font-weight: 600;
   text-align: justify;
   animation: fadeInUp 1s ease-out 0.2s both;
 }
@@ -420,11 +420,11 @@ ul {
 }
 
 .about-text {
-  font-size: 28px;
-  line-height: 52px;
+  font-size: 22px;
+  line-height: 42px;
   text-align: justify;
   color: var(--black);
-  font-weight: 700;
+  font-weight: 600;
   animation: fadeInUp 1s ease-out 0.2s both;
 }
 
